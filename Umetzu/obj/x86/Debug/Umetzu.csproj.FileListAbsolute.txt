@@ -1,0 +1,55 @@
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\Umetzu.exe
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\Umetzu.pdb
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\Telerik.Windows.Controls.pdb
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\Telerik.Windows.Controls.xml
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\Telerik.Windows.Controls.GridView.pdb
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\Telerik.Windows.Controls.GridView.xml
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\Telerik.Windows.Data.pdb
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\Telerik.Windows.Data.xml
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\Telerik.Windows.Controls.Input.pdb
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\Telerik.Windows.Controls.Input.xml
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\de\Telerik.Windows.Controls.resources.dll
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\es\Telerik.Windows.Controls.resources.dll
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\fr\Telerik.Windows.Controls.resources.dll
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\it\Telerik.Windows.Controls.resources.dll
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\nl\Telerik.Windows.Controls.resources.dll
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\bin\Debug\tr\Telerik.Windows.Controls.resources.dll
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\Login.baml
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\Login.g.cs
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\MainWindow.g.cs
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\App.g.cs
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\Umetzu_MarkupCompile.cache
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\Umetzu_MarkupCompile.lref
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\MainWindow.baml
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\Umetzu.g.resources
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\Umetzu.Properties.Resources.resources
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\Umetzu.exe
+c:\users\dumetzu\documents\visual studio 2010\Projects\Umetzu\Umetzu\obj\x86\Debug\Umetzu.pdb
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\Captcha.baml
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\Login.baml
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\Captcha.g.cs
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\Login.g.cs
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\MainWindow.g.cs
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\App.g.cs
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\Umetzu_Content.g.cs
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\Umetzu_MarkupCompile.cache
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\Umetzu_MarkupCompile.lref
+F:\Hacks\UmetzuPRJ\Umetzu\bin\Debug\CardLevels.xml
+F:\Hacks\UmetzuPRJ\Umetzu\bin\Debug\Umetzu.exe
+F:\Hacks\UmetzuPRJ\Umetzu\bin\Debug\Umetzu.pdb
+F:\Hacks\UmetzuPRJ\Umetzu\bin\Debug\HtmlAgilityPack.dll
+F:\Hacks\UmetzuPRJ\Umetzu\bin\Debug\HtmlAgilityPack.pdb
+F:\Hacks\UmetzuPRJ\Umetzu\bin\Debug\HtmlAgilityPack.xml
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\MainWindow.baml
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\Umetzu.g.resources
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\Umetzu.Properties.Resources.resources
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\Umetzu.exe
+F:\Hacks\UmetzuPRJ\Umetzu\obj\x86\Debug\Umetzu.pdb
